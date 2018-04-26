@@ -1,2 +1,2 @@
 # hello-wold
-I'm fine.
+just a repository
